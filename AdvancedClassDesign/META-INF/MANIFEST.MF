@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: AdvancedClassDesign
+Bundle-SymbolicName: AdvancedClassDesign
+Bundle-Version: 1.0.0.qualifier
+Export-Package: .,
+ com.ocp.equals,
+ com.ocp.tostring
